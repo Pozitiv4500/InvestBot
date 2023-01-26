@@ -1,7 +1,6 @@
 
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 def DIV_DAY_PLZ(a):
 
         url = f'https://smart-lab.ru/q/{a}/dividend/'
