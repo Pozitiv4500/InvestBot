@@ -1,7 +1,6 @@
 import requests
 
 import apimoex
-import pandas as pd
 
 
 def price_now(a):
